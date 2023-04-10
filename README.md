@@ -1,4 +1,8 @@
-# vimrc
+# Lab `.vimrc`
+
+[![License MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://github.com/MatthewXavierDunn/lab-vimrc/blob/main/LICENSE)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=falt-square&logo=vim&logoColor=white)
+
 Lab compatible .vimrc config
 
 ![lab vimrc screenshot](/lab-vimrc.png)
