@@ -1,6 +1,8 @@
 # vimrc
 Lab compatible .vimrc config
 
+![lab vimrc screenshot](/lab-vimrc.png)
+
 ## Installation Instructions (Unix Systems)
 
 1. Download the `.vimrc` file and put in the home directory `~`.
